@@ -1,0 +1,363 @@
+
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x:hidden; 
+    font-family: 'Ubuntu', sans-serif;
+}
+.sellnavbar{
+    padding: 0.3% 3% 0.3%;background: #104e64;
+}
+.sellnavbar a{
+    color: white;font-weight: 600;
+}
+.sellnavbar .thisbtn{
+    margin-top: 3px;padding:5px 10px 5px;margin-left: 5px;font-weight: 600;
+}
+#No1{
+    background: #20262E;
+    padding: 3% 9% 5%;
+}
+.mynavbar{
+    background: #20262E;
+}
+.mynavbar a{
+    font-weight: 600;color: wheat;transition: all 0.6s;
+}
+.mynavbar a:hover{
+    color: wheat;border-bottom:1px solid #FDCA40 ;transition: all 0.6s;
+}
+.mynavbar span i{
+    margin-top: 5px;
+}
+.mynavbar li a{
+    margin-right: 25px;font-size: 1.1rem;color: white;
+}
+.mynavbar .thisli{
+    margin-right: 0px;
+}
+.navtitle{
+    font-size: 1.5rem;
+}
+.myrow{
+    margin-top: 70px;
+}
+.mypyramed{
+    text-align: center;margin-top: 65px;
+}
+.mypyramed img{
+    position: absolute;background: none;width: 335px;left: 17%;top: 33%;z-index: 1;
+}
+.mypyramed h1{
+    font-weight: 600;font-family: 'Montserrat', sans-serif;line-height: 2;color: #FDCA40;z-index: 2;
+    position: relative;font-size: 3rem;
+}
+
+.mypyramed p{
+    font-family: 'Lobster', cursive;font-size: 1.2rem;z-index: 2;position: relative;color: white;
+}
+.mybtn{
+    margin-top: 95px;font-weight: 600;z-index: 3;
+}
+.carousel-inner{
+    background: none;padding: 0px 130px 0px;margin-top: 0;height: 410px;
+}
+.carousel-item{
+    transform: rotate(20deg);transform: skew(-15deg, 10deg);
+}
+.carousel-item:hover{
+    transition: all 0.7s;transform: rotate(-20deg);transform: skew(15deg, -10deg);
+}
+.carousel-item img{
+    width: 300px;
+    height: 98%;background-size: cover;border-radius: 7px;
+}
+.myplayers{
+    border-bottom:2px solid #FDCA40 ;
+}
+.myplayers img{
+    width: 240px;height: 380px;margin-top: 0;top: 195px;border-radius: 10px;
+}
+.p1{
+    position: absolute;right:150px;z-index: 4;border-right: 2px solid white;transform: rotate(20deg);
+    transition: all 0.7s;
+}
+.p1:hover{
+    transition: all 0.7s;
+    z-index: 6;width: 310px;height: 450px;top: 165px;right: 120px;
+}
+.p2{
+    position: absolute;right: 250px;z-index: 5;transition: all 0.7s;
+}
+.p2:hover{
+    transition: all 0.7s;
+    width: 310px;height: 450px;top: 165px;right: 220px;
+}
+.p3{
+    position: absolute;right: 350px;z-index: 3;border-left: 2px solid white;transform: rotate(-20deg);
+    transition: all 0.7s;
+}
+.p3:hover{
+    transition: all 0.7s;
+    z-index: 7;width: 310px;height: 450px;top: 165px;right: 320px;
+}
+.p4{
+    position: absolute;right: 100px;z-index: 2;transition: all 0.7s;transform: rotate(20deg);
+}
+.p4:hover{
+    transition: all 0.7s;
+    z-index: 8;width: 310px;height: 450px;top: 165px;right: 70px;
+}
+.p5{
+    position: absolute;right: 400px;z-index: 1;transition: all 0.7s;transform: rotate(-20deg);
+}
+.p5:hover{
+    transition: all 0.7s;
+    z-index: 9;width: 310px;height: 450px;top: 165px;right: 380px;
+}
+#No2{
+    padding: 8% 9% 5%;background: #20262E;
+}
+#No2 h1{
+    line-height: 1.5;color: wheat;border-bottom: 2px solid #FDCA40;
+}
+#No2 p{
+    color: white;font-weight: 600;margin-top: 15px;
+}
+.you{
+    margin: 6% 0% 6%;
+}
+.me{
+    margin: 0% 0% 6%;
+}
+.first-2{
+    text-align: center;
+}
+.first-2 img{
+    width: 125px;
+}
+.first-3 {
+    text-align: center;
+}
+.first-3 img{
+    width: 250px;
+}
+.first-4{
+    text-align: center;
+}
+.first-4 img{
+    width: 300px;margin-top: 35px;
+}
+#No3{
+    background: #20262E;
+}
+.what{
+    text-align: center;width: 50%;margin: 0 auto;
+}
+.what h1{
+    color: #FDCA40;font-weight: 600;font-size: 2.2rem;border-bottom: 2px solid #911d1d;line-height: 1.5;
+}
+.what p{
+    color: rgb(30, 131, 30);font-weight: 600;
+}
+#No4{
+    padding: 1% 9% 5%;background: #20262E;
+}
+.gr-row{
+    height: 250px;
+}
+.MyChart{
+    margin: 0 auto;
+    background: none;border-bottom: 1px solid #FDCA40;
+}
+.subs{
+    text-align: center;margin: 0 auto;background: white;
+}
+.subs h1{
+    font-size: 200%;margin-top: 95px;
+}
+.country{
+    background: none;
+}
+.country img{
+    width: 100%;
+}
+#No5{
+    padding: 5% 2% 3% ;background: #dfdace;
+}
+.first-ppp{
+    text-align: center;margin-bottom: 0;
+}
+.first-ppp img{
+    width: 480px;
+}
+.first-ppp h1{
+    background: white;margin: 0 auto;width: 30%;
+    position: relative;top: -120px;font-weight:600 ;font-family: 'Montserrat', sans-serif;
+}
+.secound-ppp{
+    background: none;text-align: center;margin-top: 0;position: relative;overflow: hidden;
+    top: -40px;height: 180px;padding: 5px;border-bottom: 2px solid #911d1d;
+}
+.secound-ppp .c4{
+    width: 165px;
+}
+.secound-ppp .c8{
+    width: 145px;
+}
+.secound-ppp .c6{
+    width: 160px;
+}
+.secound-ppp .c2{
+    width: 170px;
+}
+.secound-ppp .c5{
+    width: 175px;
+}
+.secound-ppp .c7{
+    width: 185px;position: relative;top:-5px;
+}
+.secound-ppp .c3{
+    width: 175px;
+}
+.secound-ppp .c10{
+    width: 170px;
+}
+.secound-ppp .c9{
+    width: 105px;
+}
+.secound-ppp img{
+    width: 125px;position: relative;margin-left: -48px;margin-right: -15px;
+}
+.third-ppp {
+    text-align: center;margin-top: 0px;
+}
+.third-ppp p{
+    font-size: 2rem;font-weight: 600;background: #911d1d;margin: 0 auto;width: 65%;color: white;
+}
+#No6{
+    padding: 3% 8% 3%;background: #20262E;
+}
+.but{
+    background: none;text-align: left;
+}
+.but button{
+    background: #539165;padding: 44px 36px 44px;border-radius: 100%;font-size: 20px;font-weight: 600;
+    color: white;border:1px solid white;transition: all 0.6s;
+}
+.but button:hover{
+    transition: all 0.6s;
+    background: #236c70;
+}
+.yes{
+    background: none;text-align: center;
+}
+.yes input{
+    width: 295px;margin: 15px;
+}
+.no{
+    text-align: right;
+}
+.no textarea{
+    width: 98%;
+    height: 100%;
+    border-radius: 4px;
+    resize: vertical;
+    display: inline-block;
+}
+@media (max-width:1240px){
+    .myplayers{
+        display: none;
+    }
+    .mypyramed{
+        text-align: center;margin-top: 65px;width: 100%;
+    }
+    .mypyramed img{
+        position: absolute;background: none;width: 335px;left: 17%;top: 33%;z-index: 1;
+    }
+    .mypyramed h1{
+        font-weight: 600;font-family: 'Montserrat', sans-serif;line-height: 2;color: #FDCA40;z-index: 2;
+        position: relative;font-size: 3rem;
+    }
+    
+    .mypyramed p{
+        font-family: 'Lobster', cursive;font-size: 1.2rem;z-index: 2;position: relative;color: white;
+    }
+    .mybtn{
+        margin-top: 110px;font-weight: 600;z-index: 2;
+    }
+}
+@media (max-width:1050px){
+    .gr-row{
+        height: 250px;
+    }
+    .MyChart{
+        margin: 0 auto;
+        background: none;border-bottom: 1px solid #FDCA40;
+    }
+    .subs{
+        text-align: center;margin: 0 auto;background: white;
+    }
+    .subs h1{
+        font-size: 2.1rem;margin-top: 95px;
+    }
+    .country{
+        background: none;
+    }
+    .country img{
+        width: 100%;
+    }
+}
+@media (max-width:850px){
+    .secound-ppp{
+        background: none;text-align: center;margin-top: 0;position: relative;overflow: hidden;
+        top: -40px;height: 180px;padding: 5px;border-bottom: 2px solid #911d1d;
+    }
+    .secound-ppp img{
+        width: 125px;position: relative;margin-left: -48px;margin-right: -15px;
+    }
+    .first-ppp img{
+        width:300px;
+    }
+    .c4{
+        width: 165px;
+    }
+    .c8{
+        width: 145px;
+    }
+    .c6{
+        width: 160px;
+    }
+    .c2{
+        width: 150px;
+    }
+    .c5{
+        width: 175px;
+    }
+    .c7{
+        width: 185px;position: relative;top:-5px;
+    }
+    .c3{
+        width: 175px;
+    }
+    .c10{
+        width: 160px;
+    }
+    .c9{
+        width: 105px;
+    }
+    .subs{
+        display: none;
+    }
+    .mybtn{
+        margin-top: 70px;font-weight: 600;z-index: 2;
+    }
+}
+@media (max-width:550px){
+    .secound-ppp{
+        background: none;text-align: center;margin-top: 0;position: relative;overflow: hidden;
+        top: -40px;height: 120px;padding: 5px;border-bottom: 2px solid #911d1d;width: 98%;
+    }
+}
